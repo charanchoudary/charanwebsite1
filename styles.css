@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather' serif;
+}
+h1{
+    font-family: cursive;
+    font-size: 362.5%;
+    margin-top: 50px;
+    color: #108992;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2px;
+    padding:10px;
+}
+h3{
+    padding: 0px;
+    margin: 10px;
+    text-align: left;
+    color: #11999E;
+    text-align: center;
+}
+p{
+    font-size: 1rem;
+    line-height: 2;
+    color: #40514E;
+    font-size: 120%;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 150px;
+}
+.middle-container{
+    padding: 50px;
+}
+.bottom-container{
+    padding: 50px;
+    background-color: #66BFBF;
+}
+.top-cloud{
+    position: absolute;
+    right:200px;
+    top:50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right:30px ;
+}
+.badminton{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    background-color: white;
+    height: 0px;
+    width: 100px;
+    border-style:dotted none none;
+    border-width: 5px;
+    border-color: grey;
+    padding: 20px;
+}
+.my-image{
+    width: 20%;
+}
+.btn{
+    background-color: #66BFBF;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin: 30px;
+    
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999E;   
+}
+a{
+    color: #11999e;
+    padding-right: 20px;
+    padding-right: 20px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
